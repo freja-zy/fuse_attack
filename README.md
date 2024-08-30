@@ -1,2 +1,2 @@
 # fuse_attack
-fuse-attack on infrare and rgb
+fuse-attack on infrared and rgb images
